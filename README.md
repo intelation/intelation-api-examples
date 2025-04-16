@@ -116,7 +116,7 @@ Want to add a new language client or integration? PRs welcome! Start by opening 
 
 - [Intelation Website](https://www.intelation.com)
 - [API Documentation (Coming Soon)](https://docs.intelation.com)
-- Contact: hello@intelation.com
+- Contact: contact@intelation.com
 
 ---
 
