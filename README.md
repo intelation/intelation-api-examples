@@ -120,4 +120,4 @@ Want to add a new language client or integration? PRs welcome! Start by opening 
 
 ---
 
-© 2025 Intelation — Privacy-first data transformation at scale.
+© 2025 Intelation — API First data transformation at scale.
